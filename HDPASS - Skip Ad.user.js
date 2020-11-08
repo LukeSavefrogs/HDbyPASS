@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Streaming - Skip Ads (hdpass.*)
-// @namespace    http://tampermonkey.net/
+// @namespace    Streaming-Made-Simple
 // @downloadURL  https://github.com/LukeSavefrogs/HDbyPASS/raw/main/HDPASS%20-%20Skip%20Ad.user.js
 // @version      1.0.0
 // @history      1.0.0 - Uploaded on GitHub
