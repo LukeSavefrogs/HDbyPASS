@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# HDbyPASS
+## A cosa serve?
+Questo script serve per rimuovere quei fastidiosi 15 secondi di attesa in cui compare un finto logo di varie case cinematografiche famose (come Universal e altre).
 
-You can use the [editor on GitHub](https://github.com/LukeSavefrogs/HDbyPASS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Al momento non rimuove le pubblicità all'inizio del film (quando si clicca su PLAY)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Come si usa?
+### 1. Installa Tampermonkey
+Si tratta di un'estensione che permette di eseguire script scritti in Javascript (il linguaggio del Browser) direttamente all'interno delle pagine Web. Ovviamente andrà installato sul browser che andrai ad utilizzare per vedere i film :)
 
-### Markdown
+Di seguito i link per ai relativi Market:
+- [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=it)
+- [Firefox](https://addons.mozilla.org/it/firefox/addon/tampermonkey/)
+- [Opera](https://addons.opera.com/it/extensions/details/tampermonkey-beta/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+> **Pro Tip**
+> 
+> Se lo preferisci, al posto di Tampermonkey puoi utilizzare qualsiasi altro tipo di estensione che sia compatibile con gli userscript, come **GreaseMonkey**, **ViolentMonkey** e simili
 
-# Header 1
-## Header 2
-### Header 3
+### 2. Riavvia il Browser
+Dopo aver installato l'estensione chiudi e riapri tutte le finestre del Browser su cui hai eseguito l'installazione.
 
-- Bulleted
-- List
+### 3. Installa lo script
+Vai a [questa pagina](https://github.com/LukeSavefrogs/HDbyPASS/raw/main/HDPASS%20-%20Skip%20Ad.user.js) e quando ti verrà chiesto clicca su "Installa".
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LukeSavefrogs/HDbyPASS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 4. Buona visione :)
+Ora puoi aprire e vedere il film in tranquillità
