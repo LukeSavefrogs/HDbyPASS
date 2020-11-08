@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Streaming - Skip Ads (hdpass.*)
 // @namespace    http://tampermonkey.net/
+// @downloadURL  https://github.com/LukeSavefrogs/HDbyPASS/raw/main/HDPASS%20-%20Skip%20Ad.user.js
 // @version      1.0.0
 // @description  Remove that 15 seconds fake player in some streaming players
 // @author       Luke Savefrogs
