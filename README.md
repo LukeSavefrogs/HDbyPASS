@@ -8,7 +8,7 @@ Al momento non rimuove le pubblicità all'inizio del film (quando si clicca su P
 ### 1) Installa Tampermonkey
 Si tratta di un'estensione che permette di eseguire script scritti in Javascript (il linguaggio del Browser) direttamente all'interno delle pagine Web. Ovviamente andrà installato sul browser che andrai ad utilizzare per vedere i film :)
 
-Di seguito i link per ai relativi Market:
+Di seguito i link ai relativi Market:
 - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=it)
 - [Firefox](https://addons.mozilla.org/it/firefox/addon/tampermonkey/)
 - [Opera](https://addons.opera.com/it/extensions/details/tampermonkey-beta/)
