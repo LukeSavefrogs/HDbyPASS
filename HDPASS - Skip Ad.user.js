@@ -2,7 +2,7 @@
 // @name         Streaming - Skip Ads (hdpass.*)
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  try to take over the world!
+// @description  Remove that 15 seconds fake player in some streaming players
 // @author       Luke Savefrogs
 // @include      /https:\/\/hdpass.\w[a-zA-Z]+\w\/movie/
 // @grant        none
